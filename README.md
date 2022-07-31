@@ -1,5 +1,4 @@
 # mini-air-filter-voron0
-A mini carbon air filter
 
 A mini air filter use carbon and one 5015 blower.
 For small 3D Printer such as Voron0.1.
