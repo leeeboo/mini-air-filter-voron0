@@ -11,3 +11,7 @@ For small 3D Printer such as Voron0.1.
 * M4x22 Screw X 2
 * 5015 Blower X 1
 * Active carbon
+
+![alt AirFilter](https://raw.githubusercontent.com/leeeboo/mini-air-filter-voron0/main/photo.png “Air Filter”) 
+
+![alt AirFilter](https://raw.githubusercontent.com/leeeboo/mini-air-filter-voron0/main/photo-2.png “Air Filter”) 
